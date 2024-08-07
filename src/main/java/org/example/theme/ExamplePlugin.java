@@ -11,7 +11,7 @@ import java.awt.*;
  * @author xyzbtw and hitmanqq
  */
 public class ExamplePlugin extends Plugin {
-	public static Theme theme = new Theme("FirstExternal", "First external theme!", new Color(0, 255, 0));
+	public static Theme theme = new Theme("Nodus", "Crappy recreation of nodus!", new Color(0, 255, 0));
 	public static ClickGUIHandler handler;
 	
 	@Override
