@@ -1,3 +1,2 @@
-A pretty simple gui to show an example of how to make themes.
-
-![Gui screenshot](https://github.com/xyzbtw/rusherGUI/blob/main/image.png?raw=true)
+based of ![rusherGUI](https://github.com/xyzbtw/rusherGUI) by xyzbtw
+![Gui screenshot](https://github.com/bakjedev/rusherNodusTheme/blob/main/uh.png)
